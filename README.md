@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasindugunathilake&label=Profile%20views&color=0e75b6&style=flat" alt="pasindugunathilake" /> </p>
 
-- 🌱 I’m currently learning **Java programming**
+- 🌱 I’m currently learning **Computer Science**
 
 - 📫 How to reach me **pasindugunathilake144@gmail.com**
 
