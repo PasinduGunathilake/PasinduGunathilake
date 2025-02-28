@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently following **BSc in Computer Science** Degree program
 - 📧 How to reach me: <a href="mailto:pasindugunathilake144@gmail.com" style="color: #50fa7b;">pasindugunathilake144@gmail.com</a>
-- 🌟 My Interests: **Machine Learning, AI, Programming**
+- 🌟 My Interests: **Machine Learning, AI, Computer Vision, Programming**
 - 🎨 I also have graphics design skills
 
 
