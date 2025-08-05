@@ -62,6 +62,16 @@
 </a>
 </p>
 
+<!-- TensorFlow -->
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="TensorFlow" width="40" height="40" />
+</a>
+
+<!-- Keras -->
+<a href="https://keras.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original-wordmark.svg" alt="Keras" width="40" height="40" />
+</a>
+
 <h3 align="left" style="color: #8be9fd;">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pasindugunathilake&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" />
