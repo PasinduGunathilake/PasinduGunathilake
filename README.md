@@ -72,6 +72,41 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original-wordmark.svg" alt="Keras" width="40" height="40" />
 </a>
 
+<!-- Keras -->
+<a href="https://keras.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original-wordmark.svg" alt="Keras" width="40" height="40" />
+</a>
+
+<!-- Scikit-learn -->
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original-wordmark.svg" alt="Scikit-learn" width="40" height="40" />
+</a>
+
+<!-- Perl -->
+<a href="https://www.perl.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg" alt="Perl" width="40" height="40" />
+</a>
+
+<!-- NumPy -->
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />
+</a>
+
+<!-- Pandas -->
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40" />
+</a>
+
+<!-- Matplotlib -->
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40" />
+</a>
+
+<!-- MIPS Assembly (no official devicon, using generic code icon) -->
+<a href="https://en.wikipedia.org/wiki/MIPS_instruction_set" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/code/code-original.svg" alt="MIPS Assembly" width="40" height="40" />
+</a>
+
 <h3 align="left" style="color: #8be9fd;">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pasindugunathilake&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" />
