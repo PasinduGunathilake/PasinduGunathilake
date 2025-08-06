@@ -108,14 +108,14 @@
 
 <h3 align="left" style="color: #8be9fd;">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pasindugunathilake&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pasindugunathilake&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" width="475" height="475" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pasindugunathilake&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pasindugunathilake&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" width="475" height="475"/>
 </p>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=pasindugunathilake&theme=dracula" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=pasindugunathilake&theme=dracula" alt="GitHub Streak" width="475" height="475"/>
 </p>
 
 
