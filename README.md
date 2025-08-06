@@ -42,9 +42,6 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80" height="80" />
   </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="80" height="80" />
-  </a>
 
   <!-- Jupyter Notebook -->
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
@@ -100,6 +97,12 @@
 <!-- OpenCV -->
 <a href="https://opencv.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" alt="OpenCV" width="80" height="80" />
+</a>
+
+<h3 align="left" style="color: #ffb86c;">Graphics Design Tools:</h3>
+<p align="left">
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="80" height="80" />
 </a>
 
 
