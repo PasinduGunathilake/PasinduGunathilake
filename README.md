@@ -1,19 +1,20 @@
 <h1 align="center" style="color: #f8f8f2; background: #282a36; padding: 10px; border-radius: 10px;">Hello 👋, Call me: Pasindu Gunathilake</h1>
 <h3 align="center" style="color: #bd93f9;">An undergraduate programmer from Sri Lanka.</h3>
 
-<p align="center">
-  <img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" alt="coding" width="400">
+<p align="left">
+🌱 I’m currently following <b>BSc in Computer Science</b> Degree program<br>
+📧 How to reach me: <a href="mailto:pasindugunathilake144@gmail.com" style="color: #50fa7b;">pasindugunathilake144@gmail.com</a><br>
+🌟 My Interests: <b>AI/ML, Computer Vision, Programming</b><br>
+🎨 I also have graphics design skills
+</p>
+
+<p align="right">
+  <img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" alt="coding" width="200">
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pasindugunathilake&label=Profile%20views&color=bd93f9&style=flat" alt="Profile Views" />
 </p>
-
-- 🌱 I’m currently following **BSc in Computer Science** Degree program
-- 📧 How to reach me: <a href="mailto:pasindugunathilake144@gmail.com" style="color: #50fa7b;">pasindugunathilake144@gmail.com</a>
-- 🌟 My Interests: **Machine Learning, AI, Computer Vision, Programming**
-- 🎨 I also have graphics design skills
-
 
 <h3 align="left" style="color: #ff79c6;">Connect with me:</h3>
 <p align="left">
