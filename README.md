@@ -74,7 +74,7 @@
 
 <!-- Scikit-learn -->
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original-wordmark.svg" alt="Scikit-learn" width="80" height="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="Scikit-learn" width="80" height="80" />
 </a>
 
 <!-- Perl -->
@@ -97,15 +97,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="80" height="80" />
 </a>
 
-<!-- MIPS Assembly (no official devicon, using generic code icon) -->
-<a href="https://en.wikipedia.org/wiki/MIPS_instruction_set" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/code/code-original.svg" alt="MIPS Assembly" width="80" height="80" />
-</a>
+
 
 <h3 align="left" style="color: #8be9fd;">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pasindugunathilake&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pasindugunathilake&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" />
 </p>
