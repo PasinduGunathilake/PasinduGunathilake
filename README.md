@@ -97,6 +97,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="80" height="80" />
 </a>
 
+<!-- OpenCV -->
+<a href="https://opencv.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" alt="OpenCV" width="80" height="80" />
+</a>
 
 
 <h3 align="left" style="color: #8be9fd;">GitHub Stats:</h3>
