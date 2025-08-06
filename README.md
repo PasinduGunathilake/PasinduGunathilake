@@ -64,42 +64,42 @@
 
 <!-- TensorFlow -->
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="TensorFlow" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="TensorFlow" width="80" height="80" />
 </a>
 
 <!-- Keras -->
 <a href="https://keras.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original-wordmark.svg" alt="Keras" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original-wordmark.svg" alt="Keras" width="80" height="80" />
 </a>
 
 <!-- Scikit-learn -->
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original-wordmark.svg" alt="Scikit-learn" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original-wordmark.svg" alt="Scikit-learn" width="80" height="80" />
 </a>
 
 <!-- Perl -->
 <a href="https://www.perl.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg" alt="Perl" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg" alt="Perl" width="80" height="80" />
 </a>
 
 <!-- NumPy -->
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="80" height="80" />
 </a>
 
 <!-- Pandas -->
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="80" height="80" />
 </a>
 
 <!-- Matplotlib -->
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="80" height="80" />
 </a>
 
 <!-- MIPS Assembly (no official devicon, using generic code icon) -->
 <a href="https://en.wikipedia.org/wiki/MIPS_instruction_set" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/code/code-original.svg" alt="MIPS Assembly" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/code/code-original.svg" alt="MIPS Assembly" width="80" height="80" />
 </a>
 
 <h3 align="left" style="color: #8be9fd;">GitHub Stats:</h3>
