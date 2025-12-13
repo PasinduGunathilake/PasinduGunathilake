@@ -5,7 +5,7 @@
 
   <div style="flex: 1;">
     <p>
-      🌱 I’m currently following <b>BSc in Computer Science</b> Degree program<br>
+      🌱 I'm currently following <b>BSc in Computer Science</b> Degree program<br>
       📧 How to reach me: <a href="mailto:pasindugunathilake144@gmail.com" style="color: #50fa7b;">pasindugunathilake144@gmail.com</a><br>
       🌟 My Interests: <b>AI/ML, Computer Vision, Programming</b><br>
       🎨 I also have graphics design skills
@@ -60,6 +60,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="80" height="80" />
 </a>
 
+<!-- FastAPI -->
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" width="80" height="80" />
+</a>
+
 <!-- MySQL -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="80" height="80" />
@@ -106,6 +111,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" alt="OpenCV" width="80" height="80" />
 </a>
 
+<!-- LangChain -->
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="80" height="80" />
+</a>
+
 <h3 align="left" style="color: #ffb86c;">Graphics Design Tools:</h3>
 <p align="left">
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
@@ -124,5 +134,3 @@
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=pasindugunathilake&theme=dracula" alt="GitHub Streak" width="475" height="475"/>
 </p>
-
-
