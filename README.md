@@ -5,7 +5,7 @@
 <h3 align="center" style="color: #bd93f9;">An undergraduate programmer from Sri Lanka.</h3>
 
 
-<img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" alt="coding" width="200" align="right">
+<img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" alt="coding" width="190" align="right">
 
 
 🌱 I'm currently following <b>BSc in Computer Science</b> Degree program<br>
