@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="header.png">
+	<img src="Pasindu Gunathilake.png">
 </p>
 
 <h3 align="center" style="color: #bd93f9;">An undergraduate programmer from Sri Lanka.</h3>
