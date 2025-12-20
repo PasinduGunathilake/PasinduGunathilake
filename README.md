@@ -19,10 +19,12 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pasindugunathilake&label=Profile%20views&color=bd93f9&style=flat" alt="Profile Views" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=pasindugunathilake&label=Profile%20views&color=bd93f9&style=flat" alt="Profile Views"/>
+	
 
-<h3 align="left" style="color: #ff79c6;">Connect with me:</h3>
+
+# *Connect with me*
+
 <p align="left">
   <a href="https://linkedin.com/in/pasindu-gunathilake-aab259260" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -32,10 +34,11 @@
   </a>
 </p>
 
+
 #  *Tools & Technologies*
 
 
-## 💻 Programming Languages
+### 💻 Programming Languages
 
 <p>
 	<img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
@@ -48,7 +51,7 @@
 	<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
 </p>
 
-## 🧰 Frameworks and Libraries
+### 🧰 Frameworks and Libraries
 
 <p>
 	<a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"></a>
@@ -66,7 +69,7 @@
 	<a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"></a>
 </p>
 
-## 🗄️ Databases and cloud hosting
+### 🗄️ Databases and cloud hosting
 
 <p>
 	<a href="#"><img alt="AWS" src ="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"></a>
@@ -78,7 +81,7 @@
 	<a href="#"><img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></a>
 </p>
 
-## 🔧 Software, Technologies and tools
+### 🔧 Software, Technologies and tools
 
 <p>
 	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
@@ -102,7 +105,7 @@
  
 </p>
 
-## Design tools
+### 🎨Design tools
 
 <p>
 <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white"></a>
@@ -111,10 +114,11 @@
 
 
 </p>
----
+
  
 
-<h3 align="left" style="color: #8be9fd;">GitHub Stats:</h3>
+#  *Github Stats*
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pasindugunathilake&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Top Languages" width="475" height="475" />
 </p>
