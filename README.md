@@ -1,4 +1,7 @@
-<h1 align="center" style="color: #f8f8f2; background: #282a36; padding: 10px; border-radius: 10px;">Hello 👋, Call me: Pasindu Gunathilake</h1>
+<p align="center">
+	<img src="header.png">
+</p>
+
 <h3 align="center" style="color: #bd93f9;">An undergraduate programmer from Sri Lanka.</h3>
 
 
