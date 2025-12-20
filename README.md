@@ -1,38 +1,19 @@
 <h1 align="center" style="color: #f8f8f2; background: #282a36; padding: 10px; border-radius: 10px;">Hello 👋, Call me: Pasindu Gunathilake</h1>
 <h3 align="center" style="color: #bd93f9;">An undergraduate programmer from Sri Lanka.</h3>
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
 
-  <div style="flex: 1;">
-    <p>
-      🌱 I'm currently following <b>BSc in Computer Science</b> Degree program<br>
-      📧 How to reach me: <a href="mailto:pasindugunathilake144@gmail.com" style="color: #50fa7b;">pasindugunathilake144@gmail.com</a><br>
-      🌟 My Interests: <b>AI/ML, Computer Vision, Programming</b><br>
-      🎨 I also have graphics design skills
-    </p>
-  </div>
+<img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" alt="coding" width="200" align="right">
 
-  <div style="flex: 0 0 200px; align: left;">
-    <img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" alt="coding" width="200">
-  </div>
 
-</div>
+🌱 I'm currently following <b>BSc in Computer Science</b> Degree program<br>
+📧 How to reach me: <a href="mailto:pasindugunathilake144@gmail.com" style="color: #50fa7b;">pasindugunathilake144@gmail.com</a><br>
+🌟 My Interests: <b>AI/ML, Computer Vision, Programming</b><br>
+🎨 I also have Graphic design skills
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pasindugunathilake&label=Profile%20views&color=bd93f9&style=flat" alt="Profile Views"/>
 	
-
-
-# *Connect with me*
-
-<p align="left">
-  <a href="https://linkedin.com/in/pasindu-gunathilake-aab259260" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://github.com/pasindugunathilake" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-</p>
 
 
 #  *Tools & Technologies*
