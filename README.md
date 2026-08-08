@@ -103,15 +103,18 @@
 
 #  *Github Stats*
 
-<img  src="https://github-readme-activity-graph.vercel.app/graph/?username=PasinduGunathilake&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=C[...]
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pasindugunathilake&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" width="475" height="475" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=PasinduGunathilake&bg_color=1e1e2e&title_color=bd93f9&color=bd93f9&line=bd93f9&point=f5e0dc&hide_border=true" alt="Activity Graph"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pasindugunathilake&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" width="475" height="475"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pasindugunathilake&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" width="400"/>
 </p>
+
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=pasindugunathilake&theme=tokyonight" alt="GitHub Streak" width="475" height="475"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pasindugunathilake&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=pasindugunathilake&theme=tokyonight" alt="GitHub Streak" width="400"/>
 </p>
