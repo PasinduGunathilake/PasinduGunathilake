@@ -105,11 +105,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PasinduGunathilake&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="95%" />
 </p>
 
-<p align="center">
-  <img src="https://readme-stats-github.pages.dev/api?username=PasinduGunathilake&theme=dark" alt="PasinduGunathilake's GitHub Stats" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=PasinduGunathilake&theme=dark" alt="Top Languages" width="95%" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://readme-stats-github.pages.dev/api?username=PasinduGunathilake&theme=dark" alt="PasinduGunathilake's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://readme-stats-github.pages.dev/api/top-langs?username=PasinduGunathilake&theme=dark" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
