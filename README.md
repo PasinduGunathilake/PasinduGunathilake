@@ -17,7 +17,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pasindugunathilake&label=Profile%20views&color=bd93f9&style=flat" alt="Profile Views"/>
 	
-
+![stats-theme](https://stats.pphat.top/stats?username=PasinduGunathilake&theme=dark&avatar_mode=radar)
 
 #  *Tools & Technologies*
 
