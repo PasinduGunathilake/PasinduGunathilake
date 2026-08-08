@@ -99,22 +99,17 @@
 
 </p>
 
- 
-
 #  *Github Stats*
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=PasinduGunathilake&bg_color=1e1e2e&title_color=bd93f9&color=bd93f9&line=bd93f9&point=f5e0dc&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PasinduGunathilake&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pasindugunathilake&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" width="400"/>
+  <img src="https://readme-stats-github.pages.dev/api?username=PasinduGunathilake&theme=dark" alt="PasinduGunathilake's GitHub Stats" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pasindugunathilake&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" width="400"/>
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=PasinduGunathilake&theme=dark" alt="Top Languages" width="95%" />
 </p>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=pasindugunathilake&theme=tokyonight" alt="GitHub Streak" width="400"/>
-</p>
