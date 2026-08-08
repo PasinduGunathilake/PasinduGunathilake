@@ -115,29 +115,3 @@
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=pasindugunathilake&theme=tokyonight" alt="GitHub Streak" width="475" height="475"/>
 </p>
-
----
-
-# 📊 *Coding Habits & Activity*
-
-### 💡 Habits Overview
-This section showcases your coding patterns based on recent activity data.
-
-### 🕐 Coding Patterns
-- **Peak Coding Hours:** Late evening to midnight
-- **Most Active Days:** Weekends and Fridays
-- **Preferred Coding Time:** UTC timezone (configure as needed)
-
-### 📈 Recent Activity Insights
-- **Dominant Languages:** Python, JavaScript, Java
-- **Code Style:** Clean, modular architecture
-- **Average Line Length:** Optimized for readability
-- **Indentation:** Consistent tab-based formatting
-
-### 🎯 Development Metrics
-- **Daily Commits:** Regular daily contributions
-- **Repository Focus:** AI/ML, Computer Vision projects
-- **Framework Usage:** High utilization of TensorFlow, PyTorch, and FastAPI
-- **Collaboration:** Active in open-source contributions
-
-> **Note:** These habits are tracked through commit history and GitHub activity. They reflect your coding discipline and preferred development workflows.
